@@ -66,4 +66,4 @@ function getMousePos(event) {
 //loopInterval
 setInterval( function () {
   loop();
-}, 33);
+}, 20);
